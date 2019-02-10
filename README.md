@@ -6,4 +6,4 @@ discrete representations in an unsupervised setting.
 
 
 
-## Code will be avaiable soon. 
+## Code will be available soon. 
